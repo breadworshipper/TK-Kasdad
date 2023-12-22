@@ -62,6 +62,14 @@
 * Standard scaler
 * Feature selection -> K-Best
 
+### Kombinasi 9 :
+* Delete Duplicate
+* Delete Null
+* Outlier capping winsorize sisi kanan
+* Encoding 
+* Standard scaler
+* Feature selection -> K-Best
+
 #### Progress Report
 * Kombinasi 1 sampah, datanya abis semua
 * Tidak bisa menggunakan boxcox, karena suatu elemen ada yang berupa konstan jadinya menggunakan log transformation
