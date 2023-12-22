@@ -25,7 +25,7 @@
 ### Kombinasi 4 :
 * Delete Duplicate
 * Impute Null pake iterative imputer
-* Outlier capping pake boxcox
+* Outlier capping pake log
 * Encoding 
 * Standard scaler
 * Feature selection -> K-Best
@@ -33,22 +33,22 @@
 ### Kombinasi 5 :
 * Delete Duplicate
 * Impute Null pake iterative imputer
-* Outlier capping pake boxcox
+* Outlier capping pake log
 * Encoding 
 * Standard scaler
 * Feature selection -> Embedded DT
 
 ### Kombinasi 6 :
 * Delete Duplicate
-* Impute Null pake mean/mode
-* Outlier capping pake boxcox
+* Impute Null pake median/mode
+* Outlier capping pake log
 * Encoding 
 * Standard scaler
 * Feature selection -> K-Best
 
 ### Kombinasi 7 :
 * Delete Duplicate
-* Impute Null pake mean/mode
+* Impute Null pake median/mode
 * Outlier capping winsorize sisi kanan
 * Encoding 
 * Standard scaler
@@ -57,7 +57,7 @@
 ### Kombinasi 8 :
 * Delete Duplicate
 * Delete Null
-* Outlier capping pake boxcox
+* Outlier capping pake log
 * Encoding 
 * Standard scaler
 * Feature selection -> K-Best
