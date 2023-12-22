@@ -53,3 +53,11 @@
 * Encoding 
 * Standard scaler
 * Feature selection -> embedded (DT)
+
+### Kombinasi 8 :
+* Delete Duplicate
+* Delete Null
+* Outlier capping pake boxcox
+* Encoding 
+* Standard scaler
+* Feature selection -> K-Best
