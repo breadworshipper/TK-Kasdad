@@ -74,3 +74,4 @@
 * Kombinasi 1 sampah, datanya abis semua
 * Tidak bisa menggunakan boxcox, karena suatu elemen ada yang berupa konstan jadinya menggunakan log transformation
 * Iterative Imputer standard menghasilkan data yang tidak masuk akal (K-Best menghasilkan data R sebagai yang terbaik padahal mencari data B). Melakukan modifikasi jadinya tidak menggunakan iterative imputer standard
+* Lasso dapat nilai sangat bagus, ternyata dia hanya menggunakan 5 fitur. Mengubah semua k-best menjadi hanya 5 fitur saja
