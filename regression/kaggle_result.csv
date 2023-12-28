@@ -1,0 +1,13 @@
+model,r_squared
+bayesian,0.72713
+decision_tree,0.71639
+elastic_net,0.72512
+extra_tree,0.7203
+knn,0.6505
+lasso,0.82887
+linear,0.7272
+neural_network,0.681
+random_forest,0.73515
+ridge,0.7272
+svr,0.0
+xgboost,0.73256
