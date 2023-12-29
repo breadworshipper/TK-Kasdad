@@ -9,5 +9,4 @@ linear,0.7272
 neural_network,0.681
 random_forest,0.73515
 ridge,0.7272
-svr,0.0
 xgboost,0.73256
